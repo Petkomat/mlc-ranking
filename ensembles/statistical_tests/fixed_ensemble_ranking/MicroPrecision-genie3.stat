@@ -1,0 +1,71 @@
+Statistic from Friedman Test
+----------------------------
+
+ 
+----------------------------
+----------------------------
+F-value (Iman and Davenport) = 0.12041884816755302
+P-value = 0.8868275707469524
+----------------------------
+Input Values
+	Bagging-Genie3	RForest-Genie3	ExtraTrees-Genie3
+Arts1	0.696	0.44	0.564
+Business1	0.87	0.868	0.859
+Computers1	0.694	0.672	0.707
+Education1	0.614	0.621	0.625
+Entertainment1	0.643	0.88	0.712
+Health1	0.655	0.632	0.644
+Recreation1	0.797	0.891	0.847
+Reference1	0.576	0.537	0.608
+Science1	0.772	0.637	0.761
+Social1	0.759	0.788	0.773
+Society1	0.662	0.66	0.693
+bibtex	0.881	0.915	0.926
+birds	0.588	0.617	0.567
+corel5k	0.5	0.735	0.385
+delicious	0.594	0.593	0.583
+emotions	0.742	0.755	0.766
+enron	0.699	0.711	0.679
+genbase	0.996	0.978	0.991
+mediamill	0.722	0.721	0.721
+medical	0.836	0.846	0.742
+scene	0.755	0.775	0.786
+tmc2007-500	0.742	0.747	0.706
+yeast	0.705	0.709	0.709
+zbookmarks	0.841	0.856	0.866
+----------------------------
+----------------------------
+All Ranks
+	Bagging-Genie3	RForest-Genie3	ExtraTrees-Genie3
+Arts1	1.0	3.0	2.0
+Business1	1.0	2.0	3.0
+Computers1	2.0	3.0	1.0
+Education1	3.0	2.0	1.0
+Entertainment1	3.0	1.0	2.0
+Health1	1.0	3.0	2.0
+Recreation1	3.0	1.0	2.0
+Reference1	2.0	3.0	1.0
+Science1	1.0	3.0	2.0
+Social1	3.0	1.0	2.0
+Society1	2.0	3.0	1.0
+bibtex	3.0	2.0	1.0
+birds	2.0	1.0	3.0
+corel5k	2.0	1.0	3.0
+delicious	1.0	2.0	3.0
+emotions	3.0	2.0	1.0
+enron	2.0	1.0	3.0
+genbase	1.0	3.0	2.0
+mediamill	1.0	2.5	2.5
+medical	2.0	1.0	3.0
+scene	3.0	2.0	1.0
+tmc2007-500	2.0	1.0	3.0
+yeast	3.0	1.5	1.5
+zbookmarks	3.0	2.0	1.0
+--------------------------------------------
+Avg	2.0833333333333335	1.9583333333333333	1.9583333333333333
+--------------------------------------------
+Nemenyi Post-Hoc test
+Critical Distance at 0.05 = 0.6763658403556465
+Critical Distance at 0.10 = 0.592361376188556
+----------------------------
+----------------------------

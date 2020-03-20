@@ -1,0 +1,69 @@
+Statistic from Friedman Test
+----------------------------
+
+ 
+----------------------------
+----------------------------
+F-value (Iman and Davenport) = 1.946502057613183
+P-value = 0.15487208280150444
+----------------------------
+Input Values
+	Bagging-RForest	Bagging-Symbolic	RForest-Genie3
+Arts1	0.579	0.629	0.44
+bibtex	0.949	0.761	0.915
+birds	0.61	0.578	0.617
+Business1	0.866	0.84	0.868
+Computers1	0.668	0.702	0.672
+corel5k	0.474	0.455	0.735
+delicious	0.595	0.585	0.593
+Education1	0.565	0.633	0.621
+emotions	0.752	0.75	0.755
+enron	0.657	0.665	0.711
+Entertainment1	0.536	0.757	0.88
+genbase	0.974	0.996	0.978
+Health1	0.604	0.647	0.632
+mediamill	0.72	0.719	0.721
+medical	0.762	0.807	0.846
+Recreation1	0.802	0.778	0.891
+Reference1	0.546	0.667	0.537
+scene	0.798	0.72	0.775
+Science1	0.761	0.683	0.637
+Social1	0.718	0.774	0.788
+Society1	0.666	0.642	0.66
+tmc2007-500	0.76	0.727	0.747
+yeast	0.711	0.706	0.709
+----------------------------
+----------------------------
+All Ranks
+	Bagging-RForest	Bagging-Symbolic	RForest-Genie3
+Arts1	2.0	1.0	3.0
+bibtex	1.0	3.0	2.0
+birds	2.0	3.0	1.0
+Business1	2.0	3.0	1.0
+Computers1	3.0	1.0	2.0
+corel5k	2.0	3.0	1.0
+delicious	1.0	3.0	2.0
+Education1	3.0	1.0	2.0
+emotions	2.0	3.0	1.0
+enron	3.0	2.0	1.0
+Entertainment1	3.0	2.0	1.0
+genbase	3.0	1.0	2.0
+Health1	3.0	1.0	2.0
+mediamill	2.0	3.0	1.0
+medical	3.0	2.0	1.0
+Recreation1	2.0	3.0	1.0
+Reference1	2.0	1.0	3.0
+scene	1.0	3.0	2.0
+Science1	1.0	2.0	3.0
+Social1	3.0	2.0	1.0
+Society1	1.0	3.0	2.0
+tmc2007-500	1.0	3.0	2.0
+yeast	1.0	3.0	2.0
+--------------------------------------------
+Avg	2.0434782608695654	2.260869565217391	1.6956521739130435
+--------------------------------------------
+Nemenyi Post-Hoc test
+Critical Distance at 0.05 = 0.690913006541848
+Critical Distance at 0.10 = 0.6051017880596978
+----------------------------
+----------------------------

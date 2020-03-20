@@ -1,0 +1,6 @@
+Working on file = 
+Algorithms (Total 2) = [baseline, iterations10]
+Datasets (Total 24) = [Arts1, bibtex, birds, Business1, Computers1, corel5k, delicious, Education1, emotions, enron, Entertainment1, genbase, Health1, mediamill, medical, Recreation1, Reference1, scene, Science1, Social1, Society1, tmc2007-500, yeast, zbookmarks]
+-----------------------------------------
+baseline < iterations10; p-value = 0.002457129832223348
+-----------------------------------------

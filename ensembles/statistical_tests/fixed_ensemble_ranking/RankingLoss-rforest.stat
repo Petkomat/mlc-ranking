@@ -1,0 +1,6 @@
+Working on file = 
+Algorithms (Total 2) = [Bagging-RForest, RForest-RForest]
+Datasets (Total 24) = [Arts1, Business1, Computers1, Education1, Entertainment1, Health1, Recreation1, Reference1, Science1, Social1, Society1, bibtex, birds, corel5k, delicious, emotions, enron, genbase, mediamill, medical, scene, tmc2007-500, yeast, zbookmarks]
+-----------------------------------------
+Bagging-RForest > RForest-RForest; p-value = 0.00373162660076809
+-----------------------------------------
